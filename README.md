@@ -27,4 +27,4 @@ main.py
 ```
 
 ## 🤖 Author
-[Leah Nguyen](https://github.com/kohinoor12)
+[Kohinoor Bharti](https://github.com/kohinoor12)
